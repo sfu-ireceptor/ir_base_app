@@ -1,0 +1,5 @@
+# Special requirements are the AIRR module, Anndata, and scanpy.
+airr==1.4.1
+anndata
+scanpy
+
